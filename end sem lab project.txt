@@ -1,0 +1,2 @@
+PORT=5000
+MONGO_URI=mongodb+srv://kisanseva_admin:venu2007@cluster0.nnzwl9l.mongodb.net/
